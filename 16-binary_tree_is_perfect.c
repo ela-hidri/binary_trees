@@ -22,7 +22,7 @@ return (s2);
 }
 
 /**
-* _binary_tree_is_perfect - helper function to check if a binary tree is perfect
+* _binary_tree_is_perfect - helper function to check if a tree is perfect
 * @tree: points to the root of the binary tree
 * @height: the height of the binary tree
 * @level: the level where to check
